@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920778606230",
+    "firebase_url": "https://galeriadocumentos-e7d36.firebaseio.com",
+    "project_id": "galeriadocumentos-e7d36",
+    "storage_bucket": "galeriadocumentos-e7d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920778606230:android:0936692f794e3e5f3f64b7",
+        "android_client_info": {
+          "package_name": "com.example.scannerdocumentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920778606230-3v87v9dceigrl2vp0dn0bjgng9flm62p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdDvJindB4fUleMq0ziKwO2hYrlxT1TA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920778606230-3v87v9dceigrl2vp0dn0bjgng9flm62p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
